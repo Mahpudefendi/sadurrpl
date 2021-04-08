@@ -17,3 +17,4 @@ HASIL MENYADUR PERTEMUAN 1 :
 8. Penamaan matkul analisa dan percangan Rekaya perangkat lunak, kurang tepat, yang tepat adalah analisa dan 
 perancangan perangkat lunak, kareba apabila sudah membahas rekayasa hak tersebut berarti sudah membahas tentang
 satu tingkat lebih tinggi dari yang akan kita pelajari saat ini karena sudah membahas tentang teknis dan manajemen nya.
+9. Perintah menyadur untuk setiap pertemuan
