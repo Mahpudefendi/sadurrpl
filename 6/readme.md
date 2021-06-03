@@ -1,4 +1,3 @@
-Nama : Mahpud Efendi
-Nim  : 1811500027
-Kel. : TI6J
-
+NAMA :MAHPUD EFENDI<br>
+NIM : 1811500027<br>
+KELOMPOK : TI6J <br>
